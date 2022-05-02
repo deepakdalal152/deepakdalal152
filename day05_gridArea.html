@@ -5,6 +5,34 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        #cont{
+            display: grid;
+            grid-template-columns: auto auto auto auto;
+            grid-template-rows: 50px 50px 50px 50px 50px;
+            grid-gap: 10px;
+        }
+        #cont div{
+            background-color: yellow;
+        }
+         #item5{
+            grid-column-start: 2;
+            grid-row-start: 3;
+            grid-row-end: 5;
+            grid-column-end: 4;
+            background-color: red !important;
+        }
+        #item2{
+            grid-area: 1 / 2 / 1 / span 2;
+        }
+        #item4{
+            grid-area: 2 / 1 / 4 / span 4;
+            grid-row-start: 2;
+            grid-column-start: 1;
+            grid-row-end: 4;
+            grid-column-end: span 4;
+        }
+    </style>
 </head>
 <body>
     <div id="cont">
