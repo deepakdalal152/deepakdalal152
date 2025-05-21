@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Deepak Dalal </h1>
-<h3 align="center">I'm Associate Technology Product Manager with over 15+ years experience in the visual effects industry, currently working at DNEG. My passion for research and implementing new technology has helped sculpt the software and technology behind dozens of Hollywood blockbusters🚀.</h3>
+<h3 align="center">I'm Pipeline Head with over 15+ years experience in the visual effects industry, currently working at Gelarograce Studio. My passion for research and implementing new technology has helped sculpt the software and technology behind dozens of Hollywood blockbusters🚀.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakdalal152&label=Profile%20views&color=0e75b6&style=flat" alt="Deepak" /> </p>
@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/DeepakDe4226" target="blank"><img src="https://img.shields.io/twitter/follow/@DeepakDe4226?logo=twitter&style=for-the-badge" alt="Deepak" /></a> </p>
 
-- 🌱 I’m a **Full Stack Web Developer**
+- 🌱 I’m a **Full Stack Developer**
 
-- 💬 Ask me about **React , HTML , CSS , JavaScript , TypeScript, Storybook , NodeJs, AWS**
+- 💬 Ask me about **Python, React , HTML , CSS , JavaScript , TypeScript, Storybook, NodeJs**
 
 - 📫 How to reach me **deepakdalal152@gmail.com**
 
